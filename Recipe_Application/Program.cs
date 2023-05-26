@@ -25,6 +25,7 @@ namespace Recipe_Application
 
                     case "1" or "one" or "ONE" or "One": //ONE
                         Console.Clear();
+
                         break;
 
                     case "2" or "two" or "TWO" or "Two": //TWO
